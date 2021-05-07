@@ -1,3 +1,4 @@
+import requests
 from typing import List, Union, Dict
 
 
@@ -93,5 +94,6 @@ def update_scores(game):
         display(game)
 
 
-game = Game()
-update_scores(game)
+if __name__ == '__main__':
+    game = Game()
+    update_scores(game)
