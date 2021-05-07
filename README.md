@@ -1,4 +1,4 @@
-# Coding Catas
+# Coding Katas
 
 This repo is where I keep coding Katas and examples. Each directory contains a different Kata or example.
 
